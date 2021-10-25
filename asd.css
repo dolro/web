@@ -1,0 +1,6 @@
+h1 {text-align: center;
+    margin-top: 220px;
+    font-size: 80px;
+}
+h1 span:nth-last-child(1) {color: green
+}
